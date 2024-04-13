@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mk Three Secrets</string>
+    <string name="reveal_secret">Reveal Secret</string>
+    <string name="reveal_secret1">Mackailee Longobricco</string>
+    <string name="reveal_secret2">Piplup</string>
+    <string name="reveal_secret3">Always be kinder than you feel</string>
+    <string name="what_is_my_name">What is my name?</string>
+    <string name="the_best_pokemon_is">The best Pokemon is...</string>
+    <string name="my_advice_to_the_world_is">My advice to the world is-</string>
+    <string name="three_secrets">Three Secrets</string>
+</resources>
